@@ -7,13 +7,13 @@ in your theme's templates.
 Example usage in the WordPress editor:
 
 ```
-[whatsapp-sharebutton button_label="Share with WhatsApp"]
+[whatsapp-sharebutton button_label="Share on WhatsApp"]
 ```
 
 Example usage in your theme's templates:
 
 ```
-<?php echo do_shortcode( '[whatsapp-sharebutton button_label="Share with WhatsApp"]' ); ?>
+<?php echo do_shortcode( '[whatsapp-sharebutton button_label="Share on WhatsApp"]' ); ?>
 ```
 
 ## Possible attributes of the shortcode
