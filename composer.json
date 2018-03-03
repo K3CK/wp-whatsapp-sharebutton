@@ -1,6 +1,7 @@
 {
   "name": "k3ck/whatsapp-sharebutton",
   "description": "Adds a simple WhatsApp share button via shortcode.",
+  "version": "1.0.0",
   "keywords": [
 	"wordpress",
 	"plugin",
