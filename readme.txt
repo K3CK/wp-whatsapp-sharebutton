@@ -4,7 +4,7 @@ Tags: whatsapp, share, button
 Requires at least: 4.8
 Tested up to: 4.9.4
 Requires PHP: 5.4
-Stable tag: 1.0.0
+Stable tag: 1.0.3
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl.html
 

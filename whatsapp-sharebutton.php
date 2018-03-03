@@ -13,7 +13,7 @@
  * Plugin Name:       WhatsApp Share Button
  * Plugin URI:        https://github.com/K3CK/wp-whatsapp-sharebutton
  * Description:       Adds a simple WhatsApp share button via shortcode.
- * Version:           1.0.0
+ * Version:           1.0.3
  * Author:            Martin Keck
  * Author URI:        https://www.martinkeck.com
  * License:           GPLv3
@@ -30,7 +30,7 @@ if ( ! defined( 'WPINC' ) ) {
  *
  * @since 1.0.0
  */
-define( 'WHATSAPP_SHAREBUTTON_VERSION', '1.0.0' );
+define( 'WHATSAPP_SHAREBUTTON_VERSION', '1.0.3' );
 
 /**
  * WP-Sweep class
