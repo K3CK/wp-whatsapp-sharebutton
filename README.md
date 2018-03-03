@@ -16,7 +16,7 @@ Example usage in your theme's templates:
 <?php echo do_shortcode( '[whatsapp-sharebutton button_label="Share with WhatsApp"]' ); ?>
 ```
 
-## Attributes to add to the shortcode
+## Possible attributes of the shortcode
 
 | Attribute name  | Description | Default |
 | ------------- | ------------- | ------------- |
