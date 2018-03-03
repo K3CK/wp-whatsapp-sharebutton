@@ -1,0 +1,15 @@
+.whatsapp_sharebutton_wrap {
+	height: 32px;
+	width: 32px;
+}
+.whatsapp_sharebutton {
+	background: #25D366 url(whatsapp_logo.svg) no-repeat center center / 24px 24px;
+	color: #ffffff;
+	display: block;
+	font-size: 0;
+	height: 32px;
+	padding: 5px 6px;
+}
+.whatsapp_sharebutton:hover {
+	text-decoration: none;
+}
