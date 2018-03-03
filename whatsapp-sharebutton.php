@@ -95,7 +95,6 @@ class Whatsapp_Sharebutton {
 	 * @return void
 	 */
 	public function add_hooks() {
-		add_action( 'init', array( $this, 'init' ) );
 		add_action( 'admin_menu', array( $this, 'admin_menu' ) );
 		add_action( 'wp_enqueue_scripts', array( $this, 'enqueue_styles' ) );
 	}
