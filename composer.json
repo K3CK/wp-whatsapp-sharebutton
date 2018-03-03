@@ -1,0 +1,31 @@
+{
+  "name": "k3ck/whatsapp_sharebutton",
+  "description": "Adds a simple WhatsApp share button via shortcode.",
+  "keywords": [
+	"wordpress",
+	"plugin",
+	"whatsapp",
+	"share",
+	"button"
+  ],
+  "homepage": "https://github.com/K3CK/wp-whatsapp-sharebutton",
+  "license": "MIT",
+  "authors": [
+	{
+	  "name": "Martin Keck",
+	  "email": "contact@martinkeck.com",
+	  "homepage": "https://www.martinkeck.com"
+	}
+  ],
+  "type": "wordpress-plugin",
+  "support": {
+	"issues": "https://github.com/K3CK/wp-whatsapp-sharebutton/issues",
+	"source": "https://github.com/K3CK/wp-whatsapp-sharebutton"
+  },
+  "require": {
+	"php": ">=5.4"
+  },
+  "require-dev": {
+
+  }
+}
