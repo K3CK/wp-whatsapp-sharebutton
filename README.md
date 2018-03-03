@@ -1,6 +1,6 @@
 # WhatsApp Share Button for WordPress
 
-The plugin simply adds a shortcode to WordPress to add a WhatsApp sharing button wherever you need it.
+The plugin simply configures a shortcode to add a WhatsApp sharing button wherever you need it in WordPress.
 No fancy settings page or complicated configuration. Just add the shortcode in the WP editor or
 in your theme's templates.
 
