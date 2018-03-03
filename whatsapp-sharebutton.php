@@ -1,9 +1,9 @@
 <?php
 
 /**
- * WhatsApp Share Button
+ * WhatsApp Share Button for Developers
  *
- * Adds a simple WhatsApp share button via shortcode.
+ * Adds a configurable share button for WhatsApp via shortcode.
  *
  * @link              https://github.com/K3CK/wp-whatsapp-sharebutton
  * @since             1.0.0
@@ -16,7 +16,7 @@
  * Version:           1.0.0
  * Author:            Martin Keck
  * Author URI:        https://www.martinkeck.com
- * License:           MIT License
+ * License:           GPLv3
  * Text Domain:       whatsapp-sharebutton
  */
 
@@ -133,7 +133,7 @@ class Whatsapp_Sharebutton {
 			$atts
 		);
 		$button = '<div class="' . $atts['wrapper_class'] . '">';
-		$button .= '<a href="whatsapp://send?text='.$atts['message_text'] . $atts['message_link_separator'] . $atts['target_url'].'" class="' . $atts['button_class'] . '" title="' . $atts['button_label'] . '" target="_blank">' . $atts['button_label'] . '</a>';
+		$button .= '<a href="whatsapp://send?text='.$atts['message_text'] . $atts['message_link_separator'] . $atts['target_url'].'" class="' . $atts['button_class'] . '" title="' . $atts['button_label'] . '">' . $atts['button_label'] . '</a>';
 		$button .= '</div>';
 		return $button;
 	}

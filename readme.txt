@@ -1,4 +1,4 @@
-=== WhatsApp Share Button ===
+=== WhatsApp Share Button for Developers ===
 Contributors: martinkeck
 Tags: whatsapp, share, button
 Requires at least: 4.8
@@ -8,7 +8,7 @@ Stable tag: 1.0.0
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl.html
 
-Adds a simple WhatsApp share button via shortcode.
+Adds a configurable share button for WhatsApp via shortcode.
 
 == Description ==
 The plugin simply configures a shortcode to add a WhatsApp sharing button wherever you need it in WordPress.
